@@ -1,1 +1,1 @@
-# A collection of simple C scripts for basic physics applications.
+A collection of simple C scripts for basic physics applications.
